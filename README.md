@@ -1,4 +1,4 @@
-# RENDERER for Electron: Auto Updater (NOT YET TESTED)
+# RENDERER for Electron: Auto Updater
 
 Allow the renderer to update electron apps via [electron-updater](https://www.npmjs.com/package/electron-updater)
 
